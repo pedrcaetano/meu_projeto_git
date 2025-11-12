@@ -4,4 +4,7 @@ Estou a fazer alterações
 
 Alterações feitas no branch NovaFeature
 
+<<<<<<< HEAD
+Alterações em NovaFeatuaFeature
 Alteração em master
+>>>>>>> main
