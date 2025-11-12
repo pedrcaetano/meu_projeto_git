@@ -1,3 +1,5 @@
 Este é um exemplo
 
 Estou a fazer alterações
+
+Alterações feitas no branch NovaFeature
